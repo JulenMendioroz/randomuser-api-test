@@ -10,16 +10,16 @@ Currently, two official plugins are available:
 ## PRUEBA
 API: https://randomuser.me
 
-- [] Fetch 100 registros de la API
-- [] Mostrar datos en formato tabla
-- [] Añadir modo de colores alternos para los registros de la tabla
-- [] Permitir ordenar los registros en función del país
-- [] Permitir borrado de registros de la tabla
-- [] Feature para poder restaurar el estado inicial de la tabla, recuperando los registros eliminados
-- [] Manejar posibles errores
-- [] Feature para poder filtrar los registros por país
-- [] Evitar reordenar los registros al filtrar por país
-- [] Ordenar registros al hacer click en la cabecera de la columna
+- [x] Fetch 100 registros de la API
+- [x] Mostrar datos en formato tabla
+- [x] Añadir modo de colores alternos para los registros de la tabla
+- [x] Permitir ordenar los registros en función del país
+- [x] Permitir borrado de registros de la tabla
+- [x] Feature para poder restaurar el estado inicial de la tabla, recuperando los registros eliminados
+- [x] Manejar posibles errores
+- [x] Feature para poder filtrar los registros por país
+- [x] Evitar reordenar los registros al filtrar por país
+- [x] Ordenar registros al hacer click en la cabecera de la columna
 
 
 ## Expanding the ESLint configuration
